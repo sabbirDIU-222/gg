@@ -1,0 +1,15 @@
+.full-nav .navbar-nav .nav-link
+
+{
+    color: #fff;
+    text-transform: uppercase;
+    font-family: cursive;
+    font-weight: bold;
+    
+}
+
+.full-nav .navbar-nav .nav-link:hover,
+.full-nav .navbar-nav .active > .nav-link
+{
+    color: blue
+}
